@@ -1,131 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f5fc06c1-343a-48cb-8155-9dd9287f6d13" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Cod3r.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso-php/api/datas_01.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso-php/api/datas_02.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso-php/api/escrevendo_arquivo.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso-php/array/basico.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso-php/array/comparacao.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso-php/array/constantes.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso-php/array/desafio_index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso-php/array/desafio_meses.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso-php/array/desafio_sorteio.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso-php/array/get.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso-php/array/mapa.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso-php/array/multi.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso-php/array/operacoes.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso-php/array/post.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso-php/basico/comentarios.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso-php/basico/css.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso-php/basico/desafio.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso-php/basico/html.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso-php/basico/ola.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso-php/classes_objetos/abstract.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso-php/classes_objetos/classe.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso-php/classes_objetos/construtor_destrutor.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso-php/classes_objetos/data.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso-php/classes_objetos/desafio_erros.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso-php/classes_objetos/final.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso-php/classes_objetos/heranca.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso-php/classes_objetos/interface.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso-php/classes_objetos/magic_methods.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso-php/classes_objetos/polimorfismo.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso-php/classes_objetos/static.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso-php/classes_objetos/traits_01.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso-php/classes_objetos/traits_02.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso-php/classes_objetos/visibilidade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso-php/controle/desafio_operadores_logicos.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso-php/controle/desafio_pi.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso-php/controle/desafio_switch.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso-php/controle/if_else.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso-php/controle/operador_ternario.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso-php/controle/operadores_logicos.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso-php/controle/operadores_relacionais.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso-php/controle/switch.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso-php/exercicio.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso-php/formulario/formulario.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso-php/funcoes/anonimas.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso-php/funcoes/arg_padrao.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso-php/funcoes/args_retorno.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso-php/funcoes/args_variaveis.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso-php/funcoes/closure_callable.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso-php/funcoes/desafio_recursao.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso-php/funcoes/escopo.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso-php/funcoes/map_filter.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso-php/funcoes/palindromo.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso-php/funcoes/recursividade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso-php/funcoes/retornando_funcao.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso-php/funcoes/usando_tipos.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso-php/includes/desafio.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso-php/includes/include.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso-php/includes/include_arquivo.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso-php/includes/include_funcao.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso-php/includes/include_once.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso-php/includes/include_once_arquivo.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso-php/includes/include_require.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso-php/includes/pessoa.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso-php/includes/require_return.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso-php/includes/return_nao_usado.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso-php/includes/return_usado.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso-php/includes/usuario.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso-php/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso-php/login.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso-php/logout.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso-php/menu.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso-php/namespace/basico.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso-php/namespace/sub_namespaces.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso-php/namespace/use_as.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso-php/namespace/use_as_arquivo.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso-php/recursos/controle/desafio_operadores_logicos.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso-php/recursos/controle/desafio_pi.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso-php/recursos/controle/desafio_switch.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso-php/recursos/controle/if_else.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso-php/recursos/controle/operador_ternario.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso-php/recursos/controle/operadores_logicos.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso-php/recursos/controle/operadores_relacionais.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso-php/recursos/controle/switch.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso-php/recursos/css/estilo.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso-php/recursos/css/exercicio.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso-php/recursos/css/login.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso-php/repeticoes/break_continue.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso-php/repeticoes/desafio_for.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso-php/repeticoes/desafio_impressao.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso-php/repeticoes/desafio_tabela.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso-php/repeticoes/desafio_tabela_2.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso-php/repeticoes/for.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso-php/repeticoes/foreach.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso-php/repeticoes/while.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso-php/sessao/basico_sessao.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso-php/sessao/basico_sessao_alterar.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso-php/sessao/basico_sessao_limpar.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso-php/sessao/gerenciando_sessao.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso-php/text.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso-php/tipos/aritmeticas.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso-php/tipos/booleano.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso-php/tipos/conversoes.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso-php/tipos/desafio_precedendia.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso-php/tipos/desafio_string.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso-php/tipos/float.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso-php/tipos/int.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso-php/tipos/string.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso-php/tratamento_erro/desafio_intdiv.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso-php/tratamento_erro/desafio_intdiv_teste.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso-php/tratamento_erro/erros_personalizados.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso-php/tratamento_erro/gerenciador_erro.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso-php/tratamento_erro/try_catch.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso-php/variaveis/atribuicoes.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso-php/variaveis/basico.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso-php/variaveis/constantes.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso-php/variaveis/desafio_equacao.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso-php/variaveis/desafio_variaveis.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso-php/variaveis/interpolacao.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso-php/variaveis/valor_referencia.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso-php/variaveis/variaveis_variaveis.php" afterDir="false" />
+    <list default="true" id="f5fc06c1-343a-48cb-8155-9dd9287f6d13" name="Default Changelist" comment="cruso e materia para consulta php">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/curso-php/formulario/formulario.php" beforeDir="false" afterPath="$PROJECT_DIR$/curso-php/formulario/formulario.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -144,6 +22,31 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1634134113" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="master" />
+                    <option name="lastUsedInstant" value="1634134112" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 8.0" />
   <component name="ProjectId" id="1yu9O2l0jfPAV4KnSlRF8hInhH3" />
@@ -192,8 +95,16 @@
       <workItem from="1633963643858" duration="10970000" />
       <workItem from="1633979931336" duration="596000" />
       <workItem from="1634004877483" duration="1195000" />
-      <workItem from="1634008911645" duration="10241000" />
+      <workItem from="1634008911645" duration="14401000" />
     </task>
+    <task id="LOCAL-00001" summary="cruso e materia para consulta php">
+      <created>1634134156957</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1634134156957</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -209,6 +120,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="cruso e materia para consulta php" />
+    <option name="LAST_COMMIT_MESSAGE" value="cruso e materia para consulta php" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
