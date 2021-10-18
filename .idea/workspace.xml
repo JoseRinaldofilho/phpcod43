@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f5fc06c1-343a-48cb-8155-9dd9287f6d13" name="Default Changelist" comment="conclusao do modulo formulario">
-      <change afterPath="$PROJECT_DIR$/.idea/laravel-query-settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso-php/db/conexao.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso-php/db/criar_banco.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso-php/db/criar_tabela.php" afterDir="false" />
+    <list default="true" id="f5fc06c1-343a-48cb-8155-9dd9287f6d13" name="Default Changelist" comment="conexao_pdo &#10;inserir_pdo">
+      <change afterPath="$PROJECT_DIR$/curso-php/db/alterar_pdo.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/curso-php/db/consultar_pdo.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/curso-php/db/excluir_pdo.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/curso-php/exercicio.php" beforeDir="false" afterPath="$PROJECT_DIR$/curso-php/exercicio.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/curso-php/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/curso-php/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/curso-php/login.php" beforeDir="false" afterPath="$PROJECT_DIR$/curso-php/login.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/curso-php/menu.php" beforeDir="false" afterPath="$PROJECT_DIR$/curso-php/menu.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -108,6 +103,7 @@
       <workItem from="1634228940484" duration="708000" />
       <workItem from="1634229699405" duration="4354000" />
       <workItem from="1634561198181" duration="747000" />
+      <workItem from="1634562107438" duration="2878000" />
     </task>
     <task id="LOCAL-00001" summary="cruso e materia para consulta php">
       <created>1634134156957</created>
@@ -123,7 +119,14 @@
       <option name="project" value="LOCAL" />
       <updated>1634142850664</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="conexao_pdo &#10;inserir_pdo">
+      <created>1634562299342</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1634562299342</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -144,7 +147,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="cruso e materia para consulta php" />
     <MESSAGE value="conclusao do modulo formulario" />
-    <option name="LAST_COMMIT_MESSAGE" value="conclusao do modulo formulario" />
+    <MESSAGE value="conexao_pdo &#10;inserir_pdo" />
+    <option name="LAST_COMMIT_MESSAGE" value="conexao_pdo &#10;inserir_pdo" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
