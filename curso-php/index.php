@@ -20,8 +20,8 @@ if(!$_SESSION['usuario']) {
 </head>
 <body>
     <header class="cabecalho">
-        <h1>Curso PHP</h1>
-        <h2>Índice dos Exercícios</h2>
+        <h1>Jose Fullstack</h1>
+        <h2>Índice </h2>
     </header>
     <nav class="navegacao">
         <span class="usuario">Usuário: <?= $_SESSION['usuario'] ?></span>

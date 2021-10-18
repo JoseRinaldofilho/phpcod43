@@ -1,3 +1,54 @@
+<nav class="modulos"><nav class="modulos">
+    <div class="modulo azul">
+        <h3>16. Pdo</h3>
+        <ul>
+            <li>
+                <a href="exercicio.php?dir=db&file=conexao_pdo">
+                    Conexao PDO
+                </a>
+            </li>
+            <li>
+                <a href="exercicio.php?dir=db&file=inserir_pdo">
+                     PDO: Inserir
+                </a>
+            </li>
+        </ul>
+    </div>
+    <div class="modulo roxo-escuro">
+        <h3>15. Bancos de dados</h3>
+        <ul>
+            <li>
+                <a href="exercicio.php?dir=db&file=criar_banco">
+                    Banco de dados
+                </a>
+            </li>
+            <li>
+                <a href="exercicio.php?dir=db&file=criar_tabela">
+                   Criar Tabela
+                </a>
+            </li>
+            <li>
+                <a href="exercicio.php?dir=db&file=inserir_1">
+                   Inserir registro #01
+                </a>
+            </li>
+            <li>
+                <a href="exercicio.php?dir=db&file=consultar">
+                   Consultar Resgistro 
+                </a>
+            </li>
+            <li>
+                <a href="exercicio.php?dir=db&file=excluir_1">
+                   Excluir Resgistro 
+                </a>
+            </li>
+            <li>
+                <a href="exercicio.php?dir=db&file=excluir_2">
+                   Excluir Resgistro 2
+                </a>
+            </li>
+        </ul>
+    </div>
 <nav class="modulos">
     <div class="modulo laranja">
         <h3>14. Formulario</h3>

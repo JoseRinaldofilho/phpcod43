@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f5fc06c1-343a-48cb-8155-9dd9287f6d13" name="Default Changelist" comment="cruso e materia para consulta php">
+    <list default="true" id="f5fc06c1-343a-48cb-8155-9dd9287f6d13" name="Default Changelist" comment="conclusao do modulo formulario">
+      <change afterPath="$PROJECT_DIR$/.idea/laravel-query-settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/curso-php/db/conexao.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/curso-php/db/criar_banco.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/curso-php/db/criar_tabela.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/curso-php/formulario/formulario.php" beforeDir="false" afterPath="$PROJECT_DIR$/curso-php/formulario/formulario.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/curso-php/exercicio.php" beforeDir="false" afterPath="$PROJECT_DIR$/curso-php/exercicio.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/curso-php/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/curso-php/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/curso-php/login.php" beforeDir="false" afterPath="$PROJECT_DIR$/curso-php/login.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/curso-php/menu.php" beforeDir="false" afterPath="$PROJECT_DIR$/curso-php/menu.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,11 +67,11 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/cap-10-inicial/curso-php" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../laragon/www/mmn" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="php.override.implement.member.chooser.php.doc" value="NONE" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -95,7 +103,11 @@
       <workItem from="1633963643858" duration="10970000" />
       <workItem from="1633979931336" duration="596000" />
       <workItem from="1634004877483" duration="1195000" />
-      <workItem from="1634008911645" duration="14401000" />
+      <workItem from="1634008911645" duration="14654000" />
+      <workItem from="1634214041859" duration="4368000" />
+      <workItem from="1634228940484" duration="708000" />
+      <workItem from="1634229699405" duration="4354000" />
+      <workItem from="1634561198181" duration="747000" />
     </task>
     <task id="LOCAL-00001" summary="cruso e materia para consulta php">
       <created>1634134156957</created>
@@ -104,7 +116,14 @@
       <option name="project" value="LOCAL" />
       <updated>1634134156957</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="conclusao do modulo formulario">
+      <created>1634142850664</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1634142850664</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -120,10 +139,12 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="cruso e materia para consulta php" />
-    <option name="LAST_COMMIT_MESSAGE" value="cruso e materia para consulta php" />
+    <MESSAGE value="conclusao do modulo formulario" />
+    <option name="LAST_COMMIT_MESSAGE" value="conclusao do modulo formulario" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

@@ -75,7 +75,7 @@ if($_POST['email']) {
         </div>
     </main>
     <footer class="rodape">
-        COD3R & ALUNOS © <?= date('Y'); ?>
+       Jose Rinaldo © <?= date('Y'); ?>
     </footer>
 </body>
 </html>

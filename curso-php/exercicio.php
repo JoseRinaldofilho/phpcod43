@@ -21,7 +21,7 @@ if(!$_SESSION['usuario']) {
 </head>
 <body class="exercicio">
     <header class="cabecalho">
-        <h1>Curso PHP</h1>
+        <h1>Jose Fullstack</h1>
         <h2>Visualização do Exercício</h2>
     </header>
     <nav class="navegacao">
@@ -39,7 +39,7 @@ if(!$_SESSION['usuario']) {
         </div>
     </main>
     <footer class="rodape">
-        COD3R & ALUNOS © <?= date('Y'); ?>
+        Jose Rinaldo © <?= date('Y'); ?>
     </footer>
 </body>
 </html>
